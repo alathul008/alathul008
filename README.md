@@ -2,9 +2,9 @@
 
 ### Cybersecurity Enthusiast | Penetration Testing | Vulnerability Assessment | SOC
 
-I'm a Computer Science graduate focused on practical cybersecurity and hands-on security testing.
+I'm a Computer Science graduate focused on practical cybersecurity, hands-on security testing, and building software that solves real problems.
 
-I enjoy breaking down attack paths, identifying vulnerabilities, understanding their impact, and documenting security findings in a structured way.
+I enjoy breaking down attack paths, identifying vulnerabilities, understanding their impact, and documenting security findings in a structured way. I also build full-stack and desktop applications using modern web technologies.
 
 ## 🛡️ Cybersecurity Focus
 
@@ -64,11 +64,27 @@ Areas covered include:
 
 ➡️ **[View Penetration Testing Labs](./penetration-testing-labs/)**
 
+## 💻 Software Development
+
+Alongside cybersecurity, I build full-stack and desktop applications with modern JavaScript/TypeScript tooling.
+
+### Opal
+
+A full-stack application built with **Next.js, React, TypeScript, Prisma, Clerk, Stripe, React Query, Redux Toolkit, and Tailwind CSS**.
+
+➡️ **[View Opal](https://github.com/alathul008/Opal)**
+
+### Opal Desktop
+
+An **Electron + React + TypeScript** desktop companion using Vite, Electron IPC, desktop/window source discovery, and Electron Builder packaging.
+
+➡️ **[View Opal Desktop](https://github.com/alathul008/opal-electron-app)**
+
 ## 📋 Vulnerability Assessment
 
 I have prepared structured vulnerability assessment material covering security findings, severity classification, impact, testing methodology, and remediation recommendations.
 
-The portfolio version of these assessments will be sanitized to remove confidential target information, credentials, secrets, and other sensitive data.
+The portfolio version of these assessments is sanitized to remove confidential target information, credentials, secrets, and other sensitive data.
 
 ➡️ **[View Vulnerability Assessment Portfolio](./vulnerability-assessment/)**
 
@@ -79,6 +95,7 @@ The portfolio version of these assessments will be sanitized to remove confident
 - Network security tooling
 - Web application security
 - Vulnerability research
+- Full-stack TypeScript development
 - Incident investigation fundamentals
 
 ## 📌 Portfolio Philosophy
@@ -90,5 +107,3 @@ All published security testing material is intended for authorized labs, educati
 ## 📫 Connect
 
 - GitHub: [@alathul008](https://github.com/alathul008)
-- LinkedIn: Add your LinkedIn profile here
-- Email: Add your professional email here
