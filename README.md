@@ -41,23 +41,23 @@ Kali Linux · Linux · Windows · WSL · Docker · VMware · VirtualBox
 
 ## ⭐ Featured Security Projects
 
+### Pascoe-Lite — AI Payment Recovery Engine
+
+AI-assisted payment failure recovery using **Gemini 2.5 Flash**, simulated payment telemetry, recovery recommendations, customer messaging, and a deterministic safety-guardrail layer that can override unsafe model output.
+
+➡️ **[View Pascoe-Lite](https://github.com/alathul008/pascoe-lite)**
+
 ### SOC HomeLab
 
-A dedicated security-monitoring lab built around **WSL, Docker, Wazuh, Splunk, Suricata, AdGuard Home, and Tailscale**. The project focuses on centralized logging, endpoint monitoring, detection engineering, alert triage, and incident investigation.
+A dedicated security-monitoring lab repository for documenting SOC, SIEM, detection engineering, endpoint monitoring, and incident-investigation work.
 
 ➡️ **[View SOC HomeLab](https://github.com/alathul008/SOC-HomeLab)**
 
 ### Penetration Testing Labs
 
-Hands-on boot-to-root and vulnerable-machine work covering reconnaissance, vulnerable CMS exploitation, SQL injection, Windows exploitation, Linux privilege escalation, SUID/sudo misconfigurations, credential analysis, and Docker privilege escalation.
+Hands-on boot-to-root and vulnerable-machine work covering reconnaissance, web exploitation, Windows/Linux privilege escalation, credential analysis, and Docker security.
 
-➡️ **[View Penetration Testing Labs](./penetration-testing-labs/)**
-
-### Vulnerability Assessment Portfolio
-
-Sanitized security assessment material covering methodology, findings, severity classification, impact, evidence, and remediation recommendations.
-
-➡️ **[View Vulnerability Assessment Portfolio](./vulnerability-assessment/)**
+*Detailed lab notes will be added as the work is documented.*
 
 ---
 
@@ -80,8 +80,6 @@ Full-stack application built with **Next.js, React, TypeScript, Prisma, Clerk, S
 ---
 
 ## 🧪 Hands-on Security Experience
-
-My practical work spans both offensive and defensive security:
 
 - Manual web application penetration testing
 - OWASP Top 10 testing
@@ -115,7 +113,6 @@ My practical work spans both offensive and defensive security:
 - Network security
 - Web application security
 - Vulnerability research
-- Full-stack TypeScript development
 
 ---
 
