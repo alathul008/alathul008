@@ -19,12 +19,12 @@ Typical workflow used across the labs:
 
 | Lab | Platform | Key Skills |
 |---|---|---|
-| DC-1 | VulnHub | Drupal enumeration, SUID privilege escalation |
-| DC-2 | VulnHub | WordPress enumeration, credential testing, restricted shell |
-| DC-3 | VulnHub | Joomla enumeration, SQL injection, credential analysis |
-| Blue | TryHackMe | SMB enumeration, MS17-010/EternalBlue, Windows privilege escalation |
+| [DC-1](./vulnhub/dc-1.md) | VulnHub | Drupal enumeration, SUID privilege escalation |
+| [DC-2](./vulnhub/dc-2.md) | VulnHub | WordPress enumeration, credential testing, restricted shell |
+| [DC-3](./vulnhub/dc-3.md) | VulnHub | Joomla enumeration, SQL injection, credential analysis |
+| [Blue](./tryhackme/blue.md) | TryHackMe | SMB enumeration, MS17-010/EternalBlue, Windows privilege escalation |
 | Ice | TryHackMe | Service enumeration, Icecast vulnerability research, Windows post-exploitation |
-| Ignite | TryHackMe | Fuel CMS enumeration, web exploitation, Linux privilege escalation |
+| [Ignite](./tryhackme/ignite.md) | TryHackMe | Fuel CMS enumeration, web exploitation, Linux privilege escalation |
 | Raven | VulnHub | WordPress enumeration, SSH, sudo privilege escalation |
 | Cybersploit 2 | VulnHub | Enumeration, Docker privilege escalation |
 | Vegeta | VulnHub | Web enumeration, source analysis, encoding/decoding, SSH |
