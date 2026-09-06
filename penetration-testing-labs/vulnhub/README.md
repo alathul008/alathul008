@@ -6,7 +6,7 @@ Authorized vulnerable-machine labs used to practice reconnaissance, enumeration,
 
 - **[DC-1](./dc-1.md)** — Drupal reconnaissance and SUID `find` privilege escalation
 - **[DC-2](./dc-2.md)** — WordPress enumeration, credential testing, SSH and restricted-shell analysis
-- ****[DC-3](./dc-3.md)** — Joomla reconnaissance, SQL injection and post-exploitation
+- **[DC-3](./dc-3.md)** — Joomla reconnaissance, SQL injection and post-exploitation
 - **Raven** — WordPress enumeration, SSH and sudo/Python privilege escalation
 - **Cybersploit 1** — Web/network enumeration and exploitation workflow
 - **Cybersploit 2** — Linux enumeration and Docker privilege escalation
