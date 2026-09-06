@@ -23,11 +23,11 @@ Typical workflow used across the labs:
 | [DC-2](./vulnhub/dc-2.md) | VulnHub | WordPress enumeration, credential testing, restricted shell |
 | [DC-3](./vulnhub/dc-3.md) | VulnHub | Joomla enumeration, SQL injection, credential analysis |
 | [Blue](./tryhackme/blue.md) | TryHackMe | SMB enumeration, MS17-010/EternalBlue, Windows privilege escalation |
-| Ice | TryHackMe | Service enumeration, Icecast vulnerability research, Windows post-exploitation |
+| [Ice](./tryhackme/ice.md) | TryHackMe | Icecast vulnerability research, Metasploit, Windows privilege escalation |
 | [Ignite](./tryhackme/ignite.md) | TryHackMe | Fuel CMS enumeration, web exploitation, Linux privilege escalation |
-| Raven | VulnHub | WordPress enumeration, SSH, sudo privilege escalation |
-| Cybersploit 2 | VulnHub | Enumeration, Docker privilege escalation |
-| Vegeta | VulnHub | Web enumeration, source analysis, encoding/decoding, SSH |
+| [Raven](./vulnhub/raven.md) | VulnHub | WordPress enumeration, SSH, sudo/Python privilege escalation |
+| [Cybersploit 2](./vulnhub/cybersploit-2.md) | VulnHub | Credential disclosure, SSH, Docker privilege escalation |
+| [Vegeta](./vulnhub/vegeta.md) | VulnHub | Web enumeration, source analysis, Base64, QR, Morse, SSH |
 
 ## Safety & Ethics
 
