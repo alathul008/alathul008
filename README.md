@@ -1,129 +1,126 @@
-# Hi, I'm Athul 👋
+# Hi, I'm Athul A L 👋
 
-### Cybersecurity | VAPT | Web Application Security | SOC
+### Cybersecurity Analyst | SOC | Detection Engineering | CEH
 
-Computer Science graduate and **CEH-certified cybersecurity professional** focused on practical security testing, vulnerability assessment, security monitoring, and hands-on lab work.
+Computer Science graduate and **CEH-certified cybersecurity professional** focused on security monitoring, detection engineering, vulnerability assessment, and hands-on security operations.
 
-I enjoy understanding how systems fail, validating vulnerabilities in authorized environments, investigating security events, and documenting findings clearly. I also build full-stack and desktop applications with modern TypeScript tooling.
+I build isolated security labs, validate detections from real telemetry, investigate security events, and document the evidence behind each finding.
 
 ---
 
 ## 🛡️ Cybersecurity Focus
 
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- Web Application Security & OWASP Top 10
-- Network Reconnaissance & Enumeration
-- Linux & Windows Security
-- Privilege Escalation
-- Vulnerability Research
-- SOC / SIEM & Security Monitoring
-- Incident Investigation
-- Security Documentation & Reporting
+- Security Operations (SOC) & SIEM
+- Detection Engineering & Event Correlation
+- Windows / Active Directory Security
+- Threat Hunting & Incident Investigation
+- MITRE ATT&CK Mapping
+- Network Security & Traffic Analysis
+- Vulnerability Assessment / Web Security
+- Security Automation & Documentation
 
 ## 🔧 Security Toolkit
 
-**Recon & Enumeration**  
-Nmap · arp-scan · Dirsearch · Gobuster · Droopescan · WPScan
+**SOC / Detection**  
+Wazuh · Splunk · OpenSearch · Sysmon · MITRE ATT&CK · Suricata
 
-**Web Security**  
-Burp Suite · SQLMap · SearchSploit
+**Windows / Identity**  
+Windows Server · Active Directory · PowerShell · Windows Event Logs · RBAC · Least Privilege
 
-**Exploitation & Post-Exploitation**  
-Metasploit · Hydra · John the Ripper · LinPEAS
+**Network Security**  
+pfSense · Wireshark · Nmap · TCP/IP · DNS · Protocol Analysis
 
-**Defensive / SOC**  
-Wazuh · Splunk · SPL · Suricata · AdGuard Home · MITRE ATT&CK
+**Offensive Security**  
+Burp Suite · OWASP Top 10 · SQLMap · Vulnerability Assessment · CVSS · Responsible Disclosure
 
-**Platforms & Systems**  
-Kali Linux · Linux · Windows · WSL · Docker · VMware · VirtualBox
+**Systems / Automation**  
+Linux · Arch Linux · Ubuntu · Docker · VMware Workstation · Bash · Python · SQL
 
 ---
 
-## ⭐ Featured Security Projects
+## ⭐ Featured Projects
 
-### Pascoe-Lite — AI Payment Recovery Engine
+### 🟦 Cyber Range — Detection, Investigation & Purple-Team Laboratory
 
-AI-assisted payment failure recovery using **Gemini 2.5 Flash**, simulated payment telemetry, recovery recommendations, customer messaging, and a deterministic safety-guardrail layer that can override unsafe model output.
+Enterprise-style isolated security range built with VMware Workstation Pro.
 
-➡️ **[View Pascoe-Lite](https://github.com/alathul008/pascoe-lite)**
+**Current status: DET-001 → DET-018 completed. DET-019 is in progress.**
 
-### SOC HomeLab
+The range includes:
 
-A dedicated security-monitoring lab repository for documenting SOC, SIEM, detection engineering, endpoint monitoring, and incident-investigation work.
+- pfSense firewall/router
+- Windows Server 2025 Active Directory / DNS
+- Windows endpoint telemetry
+- Wazuh Manager / Indexer / Dashboard
+- Sysmon
+- OpenSearch
+- Linux attack/operator environment
+- Isolated SOC, Enterprise, Attack, and Management zones
+
+Detection work covers authentication activity, account creation, scheduled tasks, services, privileged-group changes, PowerShell, process telemetry, and multi-event correlation.
+
+➡️ **[View Cyber Range](https://github.com/alathul008/cyber-range)**
+
+### 🟩 SOC HomeLab
+
+Hands-on SOC environment covering centralized logging, endpoint monitoring, alert triage, network/DNS visibility, IOC analysis, and incident-response workflows.
+
+**Stack:** Wazuh · Splunk · Suricata · AdGuard Home · Docker · WSL
 
 ➡️ **[View SOC HomeLab](https://github.com/alathul008/SOC-HomeLab)**
 
-### Penetration Testing Labs
+### 🟨 MailRecon
 
-Hands-on boot-to-root and vulnerable-machine work covering reconnaissance, web exploitation, Windows/Linux privilege escalation, credential analysis, and Docker security.
+Privacy-first email intelligence and OSINT platform focused on evidence provenance, provider transparency, explainable risk, reproducible reports, and defensive investigation.
 
-*Detailed lab notes will be added as the work is documented.*
+**Stack:** Python/FastAPI · React · SQLite · Docker · OSINT providers
 
----
+➡️ **[View MailRecon](https://github.com/alathul008/mailrecon)**
 
-## 💻 Software Engineering
+### 🔎 OSINT Labs
 
-Cybersecurity is my primary focus, but I also build software to strengthen my engineering skills.
+Practical OSINT exercises covering email-header analysis, mail infrastructure, document metadata, passive reconnaissance, and information leakage.
 
-### Opal
-
-Full-stack application built with **Next.js, React, TypeScript, Prisma, Clerk, Stripe, React Query, Redux Toolkit, and Tailwind CSS**.
-
-➡️ **[View Opal](https://github.com/alathul008/Opal)**
-
-### Opal Desktop
-
-**Electron + React + TypeScript** desktop application using Vite, Electron IPC, desktop/window source discovery, and Electron Builder.
-
-➡️ **[View Opal Desktop](https://github.com/alathul008/opal-electron-app)**
+➡️ **[View OSINT Labs](https://github.com/alathul008/OSINT-Labs)**
 
 ---
 
-## 🧪 Hands-on Security Experience
-
-- Manual web application penetration testing
-- OWASP Top 10 testing
-- Network reconnaissance and service enumeration
-- Vulnerability validation and responsible disclosure
-- Linux and Windows privilege escalation
-- Security monitoring and SIEM log analysis
-- Endpoint monitoring with Wazuh
-- Network/DNS security visibility
-- Incident investigation fundamentals
-- CVSS-based vulnerability reporting
-
----
-
-## 📜 Certifications & Achievements
+## 📜 Certifications
 
 - **Certified Ethical Hacker (CEH)** — EC-Council
 - **Advanced Diploma in Cyber Defence** — RedTeam Hacker Academy
 - **Cybersecurity Analyst Job Simulation** — Tata / Forage
 - **Advent of Cyber 2024** — TryHackMe
-- **Bug Bounty:** Responsible disclosure of a CSRF vulnerability (CWE-352)
-- **11 boot-to-root machines** across TryHackMe and VulnHub
+
+## 🏆 Security Practice
+
+- Validated CSRF vulnerability disclosure — **CWE-352**
+- 11 boot-to-root machines across TryHackMe and VulnHub
+- Built and maintain a documented cybersecurity cyber range
+- Hands-on Wazuh, Sysmon, Active Directory, OpenSearch and SIEM investigation work
 
 ---
 
-## 🚀 Current Focus
+## 📊 Current Focus
 
-- SOC / SIEM and detection engineering
-- Incident investigation
-- Security automation with Python
-- Network security
-- Web application security
-- Vulnerability research
-
----
-
-## 📌 Portfolio Philosophy
-
-> **Learn by doing. Document the methodology. Understand the impact. Improve the defense.**
-
-All published security material is intended for authorized labs, educational environments, or appropriately sanitized demonstrations.
+```
+SOC Operations
+Detection Engineering
+Windows / Active Directory Security
+Threat Hunting
+Incident Investigation
+Network Security
+Security Automation
+```
 
 ---
 
 ## 📫 Connect
 
-- **GitHub:** [@alathul008](https://github.com/alathul008)
+- **Email:** alathul15@gmail.com
+- **LinkedIn:** https://linkedin.com/in/athul-al-6a0a59285
+- **GitHub:** https://github.com/alathul008
+
+> Learn by doing. Validate with evidence. Document the investigation. Improve the defense.
+
+All security research published here is intended for authorized labs, educational environments, or appropriately scoped testing.
